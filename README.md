@@ -26,8 +26,8 @@ Portable — no dependencies on heavy frameworks (XGBoost, TensorFlow, etc.).
 
 
 # Project Flow
-├── score_model.py      # Main script (train + predict)
-├── matches.csv         # (Optional) Your dataset
-├── model.joblib        # Trained model (auto-saved after training)
-├── feature_names.json  # Saved feature list
-└── README.md           # This file
+├── score_model.py     
+├── matches.csv         
+├── model.joblib        
+├── feature_names.json  
+└── README.md           
